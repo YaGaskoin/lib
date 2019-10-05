@@ -1,1 +1,1 @@
-# lib
+Library of music albums
